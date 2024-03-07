@@ -11,7 +11,7 @@ Furthermore, the following extensions have been added to the pom:
 -quarkus-arc: to get the features of the CDI specification.
 -quarkus-junit5 and rest-assured: to use the annotations of the respective frameworks and create a test class for the implemented methods.
 
-This project is the result of the exercise based on Antonio Goncalves's Udemy course.
+> **_NOTE:_** This project is the result of the exercise based on Antonio Goncalves's Udemy course.
 
 ## Running the application in dev mode
 
