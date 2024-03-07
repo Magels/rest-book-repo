@@ -7,7 +7,6 @@ I developed this example project as a first approach to the Quarkus framework.
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 Furthermore, the following extensions have been added to the pom:
-
 * quarkus-resteasy-reactive: to create the rest api of this application using the annotations provided by the JAX-RS specification that this extension adds to the application.
 
 * quarkus-resteasy-reactive-jsonb: to obtain the binding from Java object to JSON (provided as output of some of the APIs) obtained thanks to JSON-B.
