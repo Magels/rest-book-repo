@@ -6,10 +6,10 @@ I developed this example project as a first approach to the Quarkus framework.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 Furthermore, the following extensions have been added to the pom:
--quarkus-resteasy-reactive: to create the rest api of this application using the annotations provided by the JAX-RS specification that this extension adds to the application.
--quarkus-resteasy-reactive-jsonb: to obtain the binding from Java object to JSON (provided as output of some of the APIs) obtained thanks to JSON-B.
--quarkus-arc: to get the features of the CDI specification.
--quarkus-junit5 and rest-assured: to use the annotations of the respective frameworks and create a test class for the implemented methods.
+*quarkus-resteasy-reactive: to create the rest api of this application using the annotations provided by the JAX-RS specification that this extension adds to the application.
+*quarkus-resteasy-reactive-jsonb: to obtain the binding from Java object to JSON (provided as output of some of the APIs) obtained thanks to JSON-B.
+*quarkus-arc: to get the features of the CDI specification.
+*quarkus-junit5 and rest-assured: to use the annotations of the respective frameworks and create a test class for the implemented methods.
 
 > **_NOTE:_** This project is the result of the exercise based on Antonio Goncalves's Udemy course.
 
